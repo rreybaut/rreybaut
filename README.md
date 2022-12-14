@@ -1,6 +1,10 @@
 Graphic designer since 1993, as well in Print and Digital.
+<br>
 I focused on webdesign for brands and agencies.
+<br>
+<br>
 I recently attended Le Wagon Web Developer bootcamp batch #1056 in Nice, France.
+<br>
 
 I'm a regular 🛹 skateboarder, a 🇯🇵 manga addict and love 🍥 cooking.
 
