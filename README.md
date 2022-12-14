@@ -5,7 +5,7 @@ I recently attended Le Wagon Web Developer bootcamp batch #1056 in Nice, France.
 I'm a regular 🛹 skateboarder, a 🇯🇵 manga addict and love 🍥 cooking.
 
 Check my resume if you feel interrested by my profile :<br>
-<a href="https://drive.google.com/file/d/1YhhZeyrZ7cqlF797DrbH604P_AmAWiRP/view?usp=sharing)">👉 rreybaut pdf</a>
+<a href="https://drive.google.com/file/d/1YhhZeyrZ7cqlF797DrbH604P_AmAWiRP/view?usp=sharing">👉 rreybaut pdf</a>
 
 See ya !
 
