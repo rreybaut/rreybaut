@@ -1,4 +1,10 @@
-### Hi there 👋
+Graphic designer since 1993, as well in Print and Digital.
+I focused on webdesign for brands and agencies.
+I recently attended Le Wagon Web Developer bootcamp batch #1056 in Nice, France.
+
+I'm a regular skateboarder, a manga addict and love cooking.
+
+See ya !
 
 <!--
 **rreybaut/rreybaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
