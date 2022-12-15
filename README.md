@@ -1,5 +1,3 @@
-<div class="raf-box" style="background-color: #5dfc76;color: black;"> 
-
 I'm a regular 🛹 skateboarder, a 🇯🇵 manga addict and love 🍥 cooking.
 <br>
 Graphic designer since 1993, as well in Print and Digital.
@@ -16,5 +14,3 @@ Check my resume if you feel interrested by my profile :<br>
 <br>
 <br>
 See ya !
-
-</div>
