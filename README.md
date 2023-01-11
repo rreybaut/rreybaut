@@ -8,4 +8,4 @@ Discover my team project presented on the Demo Day: <a href="https://www.brainbu
 <br>
 <br>
 Check my resume if you feel interrested by my profile :<br>
-<a href="https://drive.google.com/file/d/1YhhZeyrZ7cqlF797DrbH604P_AmAWiRP/view?usp=sharing"> rreybaut pdf</a>
+<a href="https://drive.google.com/file/d/1k2L7gJ065gLKv4nsbapC3YmfrneLoE5u/view?usp=sharing" target="blank"> cv rreybaut pdf</a>
