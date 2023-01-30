@@ -4,8 +4,12 @@ I focused on webdesign for brands and agencies.
 <br>
 I recently attended <a href="https://www.lewagon.com"> Le Wagon</a> Full Stack Web Developer bootcamp, batch #1056 in Nice, France.
 <br>
-Discover my team project presented on the Demo Day: <a href="https://www.brainbuddy.cfd">🧠 Brain Buddy</a>.
+Discover my team project presented on the Demo Day:
+<a href="https://www.brainbuddy.cfd">🧠 Brain Buddy</a>.
+<br>
+<br>
+<a href="https://vistaculture-rreybaut.herokuapp.com/">✈️ Vis ta Culture</a>.
 <br>
 <br>
 Check my resume if you feel interrested by my profile :<br>
-<a href="https://drive.google.com/file/d/11yc88VC5yhHxNEAwC1xxGQBGiZZpyBJV/view?usp=share_link" target="_blank"> cv rreybaut pdf</a>
+<a href="https://drive.google.com/file/d/1Uz3tYaWRcmR8s0f0iDSzIURaKMNrfVqo/view?usp=sharing"> cv rreybaut pdf</a>
