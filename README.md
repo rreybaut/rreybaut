@@ -7,10 +7,14 @@ I recently attended <a href="https://www.lewagon.com"> Le Wagon</a> Full Stack W
 Discover my team project presented on the Demo Day:
 <br>
 <br>
-<a href="https://www.brainbuddy.cfd">🧠 Brain Buddy</a>
+<strong><a href="https://www.brainbuddy.cfd">🧠 Brain Buddy</a></strong>
+<br>
+https://www.brainbuddy.cfd
 <br>
 <br>
-<a href="https://vistaculture-rreybaut.herokuapp.com/">✈️ Vis ta Culture</a>
+<strong><a href="https://vistaculture-rreybaut.herokuapp.com/">✈️ Vis ta Culture</a></strong>
+<br>
+https://vistaculture-rreybaut.herokuapp.com/
 <br>
 <br>
 Check my resume if you feel interrested by my profile :<br>
